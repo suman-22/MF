@@ -8,4 +8,5 @@ Scenario: demo test
   And the user selects territory NAM
   When the user clicks Add
   Then the user verifies practice number is present
+ And the user selects GFMP
 
